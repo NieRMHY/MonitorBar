@@ -2,6 +2,19 @@
 
 <h1 align="center">MonitorBar</h1>
 
+## NieRMHY 独立维护版本
+
+本仓库由 NieRMHY 独立维护，用于 macOS / Windows 显示器音量、输入源与画面控制。GitHub 仓库独立管理，不使用 fork 关系，也不自动同步原项目。
+
+- 当前仓库：[NieRMHY/MonitorBar](https://github.com/NieRMHY/MonitorBar)。
+- 原项目：[Binaryify/MonitorBar](https://github.com/Binaryify/MonitorBar)，感谢原作者及贡献者。
+- 保留原项目提交历史、`LICENSE` 和作者版权信息；独立维护不改变已有许可要求。
+- 开发说明与项目规则见 `CLAUDE.md`、`AGENTS.md`。
+
+下方保留原项目文档；其中原作者的下载、更新、签名与测试说明属于原项目，不代表本个人版本已经发布或完成同样的验证。个人构建发布前需要单独配置更新来源及签名。
+
+---
+
 <p align="center">macOS 菜单栏 / Windows 托盘里的显示器管理工具，一份 Go 代码，两端原生界面。<br>
 A menu bar (macOS) and tray (Windows) app to manage your monitor — <a href="#english">English</a></p>
 
